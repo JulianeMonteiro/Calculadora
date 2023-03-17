@@ -1,0 +1,21 @@
+//COLORS
+$backgroundColor: #333;
+$backgroundCalc: #cad7b2;
+$blackColor: #000;
+$greyColor1: #666;
+$greyColor2: #444;
+$greyColor3: #999;
+$greyColor4: #aebea3;
+$greyColor5: #dedddd;
+$colorButton: #92a287;
+$buttonHover: darken($colorButton, 5%);
+$btnHover: darken($greyColor4, 15%);
+$inset: #00000045;
+
+//MIXINS
+
+@mixin text-style() {
+  padding: 0.2em;
+  overflow-wrap: break-word;
+  min-height: 1.6em;
+} ;
