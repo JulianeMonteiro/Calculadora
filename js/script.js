@@ -143,3 +143,18 @@ buttons.forEach((btn) => {
     }
   });
 });
+
+// DARKMODE
+
+function addDarkmodeWidget() {
+  new Darkmode().showWidget();
+}
+
+window.addEventListener("load", addDarkmodeWidget);
+
+const options = {
+  label: "🌓", // default: ''
+};
+
+const darkmode = new Darkmode(options);
+darkmode.showWidget();
