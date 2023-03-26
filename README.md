@@ -47,7 +47,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - SASS
 - JavaScript
-- Gulp
   <br/>
 
 <a id="Demo"></a>
@@ -62,9 +61,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 💻 Desktop
 
-| ⭐ Screen                                                                               | ⭐ Screen with added tasks                                                                                  |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| ![Page](https://github.com/JulianeMonteiro/ToDo-Gulp/blob/main/source/images/readme-img.png)| ![Page](https://github.com/JulianeMonteiro/ToDo-Gulp/blob/main/source/images/tasks.png)|
+| ⭐ Screen                                                                                                                                                            |
+| --------------------------------
+| ![Page]()| 
 
 <br />
 
@@ -82,29 +81,24 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📋 Informações sobre o Projeto
 
-### 🔡 Fontes
-
-- 'Poppins';
-
   <br />
 
 ### 🎨 Paleta de Cores
 
-- ![#222222](https://placehold.co/15x15/333333/333333.png) `$backgroundColor`
-- ![#cccccc](https://placehold.co/15x15/cad7b2/cad7b2.png) `$backgroundCalc`
-- ![#ececec](https://placehold.co/15x15/000000/000000.png) `$blackColor`
-- ![#ffffff](https://placehold.co/15x15/666666/666666.png) `$greyColor1`
-- ![#000000](https://placehold.co/15x15/444444/444444.png) `$greyColor2`
+- ![#cad7b2](https://placehold.co/15x15/333333/333333.png) `$backgroundColor`
+- ![#cad7b2](https://placehold.co/15x15/cad7b2/cad7b2.png) `$backgroundCalc`
+- ![#000000](https://placehold.co/15x15/000000/000000.png) `$blackColor`
+- ![#666666](https://placehold.co/15x15/666666/666666.png) `$greyColor1`
+- ![#444444](https://placehold.co/15x15/444444/444444.png) `$greyColor2`
 - ![#999999](https://placehold.co/15x15/999999/999999.png) `$greyColor3`
-- ![#000000](https://placehold.co/15x15/aebea3/aebea3.png) `$greyColor4`
-- ![#000000](https://placehold.co/15x15/dedddd/dedddd.png) `$greyColor5`
-- ![#000000](https://placehold.co/15x15/92a287/92a287.png) `$greyColor2`
-- ![#000000](https://placehold.co/15x15/00000045/00000045.png) `$inset`
+- ![#aebea3](https://placehold.co/15x15/aebea3/aebea3.png) `$greyColor4`
+- ![#dedddd](https://placehold.co/15x15/dedddd/dedddd.png) `$greyColor5`
+- ![#92a287](https://placehold.co/15x15/92a287/92a287.png) `$greyColor2`
   <br />
 
 ### 🖥️ Layout
 
-- [To Do List](https://www.figma.com/file/kILPE9zDWM4oTzzejMAgSH/Untitled?t=8)
+- [Calculadora]()
 
 <br />
 
