@@ -47,6 +47,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - SASS
 - JavaScript
+- Biblioteca Darkmode.js
   <br/>
 
 <a id="Demo"></a>
